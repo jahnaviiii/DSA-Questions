@@ -7,6 +7,7 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,16 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
