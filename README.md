@@ -38,4 +38,8 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/jahnaviiii/DSA-Questions/tree/master/1307-ugly-number-iii) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/jahnaviiii/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
