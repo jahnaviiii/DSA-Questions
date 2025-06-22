@@ -13,6 +13,7 @@ Contains Implementations of DSA questions
 | ------- |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
 | [1307-ugly-number-iii](https://github.com/jahnaviiii/DSA-Questions/tree/master/1307-ugly-number-iii) |
+| [2507-number-of-common-factors](https://github.com/jahnaviiii/DSA-Questions/tree/master/2507-number-of-common-factors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,8 +39,13 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/jahnaviiii/DSA-Questions/tree/master/1307-ugly-number-iii) |
+| [2507-number-of-common-factors](https://github.com/jahnaviiii/DSA-Questions/tree/master/2507-number-of-common-factors) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/jahnaviiii/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/jahnaviiii/DSA-Questions/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
