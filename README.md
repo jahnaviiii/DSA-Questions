@@ -44,8 +44,13 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/jahnaviiii/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0782-jewels-and-stones](https://github.com/jahnaviiii/DSA-Questions/tree/master/0782-jewels-and-stones) |
 ## Enumeration
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/jahnaviiii/DSA-Questions/tree/master/2507-number-of-common-factors) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/jahnaviiii/DSA-Questions/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
