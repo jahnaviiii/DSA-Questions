@@ -7,6 +7,7 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviiii/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
@@ -19,11 +20,13 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jahnaviiii/DSA-Questions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviiii/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/jahnaviiii/DSA-Questions/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviiii/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1307-ugly-number-iii](https://github.com/jahnaviiii/DSA-Questions/tree/master/1307-ugly-number-iii) |
 ## Divide and Conquer
