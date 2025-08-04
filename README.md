@@ -6,6 +6,7 @@ Contains Implementations of DSA questions
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
@@ -44,6 +45,7 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/jahnaviiii/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0782-jewels-and-stones](https://github.com/jahnaviiii/DSA-Questions/tree/master/0782-jewels-and-stones) |
 ## Enumeration
 |  |
@@ -52,5 +54,10 @@ Contains Implementations of DSA questions
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0782-jewels-and-stones](https://github.com/jahnaviiii/DSA-Questions/tree/master/0782-jewels-and-stones) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
