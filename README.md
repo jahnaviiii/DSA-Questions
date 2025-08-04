@@ -18,6 +18,7 @@ Contains Implementations of DSA questions
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/jahnaviiii/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ Contains Implementations of DSA questions
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/jahnaviiii/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/jahnaviiii/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/jahnaviiii/DSA-Questions/tree/master/0782-jewels-and-stones) |
 ## Enumeration
 |  |
