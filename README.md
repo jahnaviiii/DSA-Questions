@@ -7,6 +7,7 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jahnaviiii/DSA-Questions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/jahnaviiii/DSA-Questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviiii/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
@@ -20,6 +21,7 @@ Contains Implementations of DSA questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jahnaviiii/DSA-Questions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/jahnaviiii/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviiii/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
@@ -68,5 +70,6 @@ Contains Implementations of DSA questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jahnaviiii/DSA-Questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
