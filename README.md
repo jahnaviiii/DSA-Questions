@@ -6,6 +6,7 @@ Contains Implementations of DSA questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jahnaviiii/DSA-Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviiii/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ Contains Implementations of DSA questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jahnaviiii/DSA-Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0782-jewels-and-stones](https://github.com/jahnaviiii/DSA-Questions/tree/master/0782-jewels-and-stones) |
 ## Sorting
