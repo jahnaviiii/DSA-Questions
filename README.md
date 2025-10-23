@@ -83,4 +83,12 @@ Contains Implementations of DSA questions
 | [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0924-fair-candy-swap](https://github.com/jahnaviiii/DSA-Questions/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jahnaviiii/DSA-Questions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jahnaviiii/DSA-Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
