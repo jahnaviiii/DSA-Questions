@@ -27,6 +27,7 @@ Contains Implementations of DSA questions
 | ------- |
 | [0015-3sum](https://github.com/jahnaviiii/DSA-Questions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/jahnaviiii/DSA-Questions/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviiii/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/jahnaviiii/DSA-Questions/tree/master/0344-reverse-string) |
@@ -74,6 +75,7 @@ Contains Implementations of DSA questions
 | ------- |
 | [0001-two-sum](https://github.com/jahnaviiii/DSA-Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0782-jewels-and-stones](https://github.com/jahnaviiii/DSA-Questions/tree/master/0782-jewels-and-stones) |
 | [0924-fair-candy-swap](https://github.com/jahnaviiii/DSA-Questions/tree/master/0924-fair-candy-swap) |
 ## Sorting
@@ -86,6 +88,7 @@ Contains Implementations of DSA questions
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/jahnaviiii/DSA-Questions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
