@@ -26,6 +26,7 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jahnaviiii/DSA-Questions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jahnaviiii/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/jahnaviiii/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviiii/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -89,6 +90,7 @@ Contains Implementations of DSA questions
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jahnaviiii/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jahnaviiii/DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/jahnaviiii/DSA-Questions/tree/master/0206-reverse-linked-list) |
