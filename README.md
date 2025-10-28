@@ -14,6 +14,7 @@ Contains Implementations of DSA questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviiii/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jahnaviiii/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0682-baseball-game](https://github.com/jahnaviiii/DSA-Questions/tree/master/0682-baseball-game) |
 | [0924-fair-candy-swap](https://github.com/jahnaviiii/DSA-Questions/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
@@ -100,4 +101,12 @@ Contains Implementations of DSA questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jahnaviiii/DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jahnaviiii/DSA-Questions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/jahnaviiii/DSA-Questions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/jahnaviiii/DSA-Questions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
