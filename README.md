@@ -65,6 +65,7 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/jahnaviiii/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/jahnaviiii/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/jahnaviiii/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/jahnaviiii/DSA-Questions/tree/master/0344-reverse-string) |
@@ -104,6 +105,7 @@ Contains Implementations of DSA questions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jahnaviiii/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/jahnaviiii/DSA-Questions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
