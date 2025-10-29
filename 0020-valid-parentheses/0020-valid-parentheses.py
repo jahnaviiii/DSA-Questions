@@ -1,26 +1,21 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stk = []
+        opening = '{(['
+        map ={
+            '}':"{",
+            "]":"[",
+            ")":"("
+        }
+
+        stk =[]
         for char in s:
-            if char == '(' or char=='{' or char=='[':
+            if char in opening:
                 stk.append(char)
-            elif char == ')':
-                if len(stk) == 0 or stk[-1] != '(':
-                    return False
-                else:
+            else:
+                if stk and map[char] == stk[-1]:
                     stk.pop()
-            elif char == ']':
-                if len(stk) == 0 or stk[-1] != '[':
-                    return False
                 else:
-                    stk.pop()
-            elif char == '}':
-                if len(stk) == 0 or stk[-1] != '{':
                     return False
-                else:
-                    stk.pop()
-            
         
-        # print(stk)
         return len(stk) == 0
         
