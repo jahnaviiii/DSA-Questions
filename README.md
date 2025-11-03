@@ -10,6 +10,7 @@ Contains Implementations of DSA questions
 | [0015-3sum](https://github.com/jahnaviiii/DSA-Questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/jahnaviiii/DSA-Questions/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jahnaviiii/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnaviiii/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnaviiii/DSA-Questions/tree/master/0189-rotate-array) |
@@ -106,9 +107,14 @@ Contains Implementations of DSA questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jahnaviiii/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jahnaviiii/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0682-baseball-game](https://github.com/jahnaviiii/DSA-Questions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/jahnaviiii/DSA-Questions/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jahnaviiii/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
